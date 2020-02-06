@@ -1,0 +1,4 @@
+﻿上传文件到根目录
+修改数据库配置文件 APP\Common\Conf\config.php
+导入数据库bbs.humengcn.com.sql
+后台 域名/Admin    用户：admin   密码：zhanmazj.com

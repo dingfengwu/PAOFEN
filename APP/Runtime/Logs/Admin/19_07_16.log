@@ -1,0 +1,352 @@
+[ 2019-07-16T04:33:44+08:00 ] 58.251.121.184 /Admin/Pubss/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005100s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000347s ]
+
+[ 2019-07-16T11:54:06+08:00 ] 1.196.171.141 /Admin/Pubss/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005063s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000147s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000170s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000371s ]
+
+[ 2019-07-16T11:54:13+08:00 ] 1.196.171.141 /Admin/pubss/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+NOTIC: [8] Use of undefined constant MODEL_INSERT - assumed 'MODEL_INSERT' /www/wwwroot/ltyxdc.cn/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0007s ]
+SQL: SELECT * FROM `ysk_admin` WHERE `username` = 'admin' AND `status` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: avatar /www/wwwroot/ltyxdc.cn/APP/Admin/Model/ManageModel.class.php 第 91 行.
+SQL: SHOW COLUMNS FROM `ysk_upload` [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: email /www/wwwroot/ltyxdc.cn/APP/Admin/Model/ManageModel.class.php 第 94 行.
+SQL: SHOW COLUMNS FROM `ysk_group` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ysk_group` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: avatar /www/wwwroot/ltyxdc.cn/APP/Admin/Model/ManageModel.class.php 第 189 行.
+
+[ 2019-07-16T11:54:15+08:00 ] 1.196.171.141 /Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001293s ]
+NOTIC: [8] Use of undefined constant MODEL_INSERT - assumed 'MODEL_INSERT' /www/wwwroot/ltyxdc.cn/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_menu` [ RunTime:0.0005s ]
+SQL: SELECT `pid`,`gid`,`name` FROM `ysk_menu` WHERE `col` = 'Index' AND `status` = 1 AND `level` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = null LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = null LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: gid /www/wwwroot/ltyxdc.cn/APP/Admin/Controller/AdminController.class.php 第 56 行.
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0005s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 1 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0003s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT `col`,`act` FROM `ysk_menu` WHERE `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(1) AS tp_count FROM `ysk_menu` WHERE `col` = 'Index' AND `act` = 'index' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE ( reg_date BETWEEN 1563206400 AND 1563292800 ) LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT SUM(money) AS tp_sum FROM `ysk_user` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_recharge` [ RunTime:0.0004s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `ysk_recharge` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_withdraw` [ RunTime:0.0004s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `ysk_withdraw` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_userrob` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_userrob` WHERE `status` = 2 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_userrob` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_userrob` WHERE `status` = 3 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `ysk_userrob` WHERE `status` = 3 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `ysk_userrob` WHERE `status` = 2 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ysk_roborder` [ RunTime:0.0005s ]
+SQL: SELECT SUM(price) AS tp_sum FROM `ysk_roborder` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_roborder` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ysk_somebill` [ RunTime:0.0005s ]
+SQL: SELECT SUM(num) AS tp_sum FROM `ysk_somebill` WHERE `jl_class` = 1 LIMIT 1   [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000107s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined variable: _user_auth /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/4d73593ea9413cb83b430e59017e71c1.php 第 70 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010677s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000456s ]
+
+[ 2019-07-16T11:54:19+08:00 ] 1.196.171.141 /Admin/User/recharge.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::setStatus() should be compatible with Admin\Controller\AdminController::setStatus($model = Admin\Controller\CONTROLLER_NAME, $script = false) /www/wwwroot/ltyxdc.cn/APP/Admin/Controller/UserController.class.php 第 11 行.
+NOTIC: [8] Use of undefined constant MODEL_INSERT - assumed 'MODEL_INSERT' /www/wwwroot/ltyxdc.cn/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_group` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ysk_menu` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0004s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `pid`,`gid`,`name` FROM `ysk_menu` WHERE `col` = 'User' AND `status` = 1 AND `level` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 1 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT `col`,`act` FROM `ysk_menu` WHERE `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(1) AS tp_count FROM `ysk_menu` WHERE `col` = 'User' AND `act` = 'recharge' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_recharge` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_recharge` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_recharge` ORDER BY id desc LIMIT 0,50   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ysk_system` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ysk_system` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000129s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+NOTIC: [8] Undefined variable: _user_auth /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/c3597ce05c8b81c5f841a7b8c4ff5b41.php 第 75 行.
+NOTIC: [8] Undefined index: keyword /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/c3597ce05c8b81c5f841a7b8c4ff5b41.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014474s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014510s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000252s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000471s ]
+
+[ 2019-07-16T11:54:27+08:00 ] 1.196.171.141 /Admin/User/withdraw.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::setStatus() should be compatible with Admin\Controller\AdminController::setStatus($model = Admin\Controller\CONTROLLER_NAME, $script = false) /www/wwwroot/ltyxdc.cn/APP/Admin/Controller/UserController.class.php 第 11 行.
+NOTIC: [8] Use of undefined constant MODEL_INSERT - assumed 'MODEL_INSERT' /www/wwwroot/ltyxdc.cn/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_group` [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ysk_menu` [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0005s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `pid`,`gid`,`name` FROM `ysk_menu` WHERE `col` = 'User' AND `status` = 1 AND `level` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 1 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0003s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT `col`,`act` FROM `ysk_menu` WHERE `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(1) AS tp_count FROM `ysk_menu` WHERE `col` = 'User' AND `act` = 'withdraw' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_withdraw` [ RunTime:0.0004s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_withdraw` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_withdraw` ORDER BY id desc LIMIT 0,50   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined variable: _user_auth /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 75 行.
+NOTIC: [8] Undefined index: keyword /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 157 行.
+NOTIC: [8] Undefined index: marker /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 212 行.
+NOTIC: [8] Undefined index: marker /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 212 行.
+NOTIC: [8] Undefined index: marker /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 212 行.
+NOTIC: [8] Undefined index: marker /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 212 行.
+NOTIC: [8] Undefined index: marker /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 212 行.
+NOTIC: [8] Undefined index: marker /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 212 行.
+NOTIC: [8] Undefined index: marker /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/83507804a92d4dd9c388590b9289ddd0.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000453s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000487s ]
+
+[ 2019-07-16T11:54:35+08:00 ] 1.196.171.141 /Admin/Roborder/userrob.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000696s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+NOTIC: [8] Use of undefined constant MODEL_INSERT - assumed 'MODEL_INSERT' /www/wwwroot/ltyxdc.cn/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_group` [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ysk_menu` [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0005s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `pid`,`gid`,`name` FROM `ysk_menu` WHERE `col` = 'Roborder' AND `status` = 1 AND `level` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 352 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 1 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0003s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT `col`,`act` FROM `ysk_menu` WHERE `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(1) AS tp_count FROM `ysk_menu` WHERE `col` = 'Roborder' AND `act` = 'userrob' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_userrob` [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_userrob` WHERE `status` = 1 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `ysk_userrob` WHERE `status` = 1 ORDER BY id desc LIMIT 0,10   [ RunTime:0.0046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined variable: _user_auth /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/f0347a9f720ad42c1f1745e652c2a224.php 第 75 行.
+NOTIC: [8] Undefined index: keyword /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/f0347a9f720ad42c1f1745e652c2a224.php 第 157 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011349s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000490s ]
+
+[ 2019-07-16T11:54:39+08:00 ] 1.196.171.141 /Admin/User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+NOTIC: [2048] Declaration of Admin\Controller\UserController::setStatus() should be compatible with Admin\Controller\AdminController::setStatus($model = Admin\Controller\CONTROLLER_NAME, $script = false) /www/wwwroot/ltyxdc.cn/APP/Admin/Controller/UserController.class.php 第 11 行.
+NOTIC: [8] Use of undefined constant MODEL_INSERT - assumed 'MODEL_INSERT' /www/wwwroot/ltyxdc.cn/ThinkPHP/Common/functions.php 第 588 行.
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_group` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ysk_menu` [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `ysk_admin` [ RunTime:0.0005s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `pid`,`gid`,`name` FROM `ysk_menu` WHERE `col` = 'User' AND `status` = 1 AND `level` = 2 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `name` FROM `ysk_menu` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 1 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc  [ RunTime:0.0003s ]
+SQL: SELECT `auth_id` FROM `ysk_admin` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_menu` WHERE `status` = 1 AND `level` = 0 ORDER BY sort asc, id asc  [ RunTime:0.0002s ]
+SQL: SELECT `col`,`act` FROM `ysk_menu` WHERE `level` = 2 AND `gid` = 1 ORDER BY sort asc, id asc LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(1) AS tp_count FROM `ysk_menu` WHERE `col` = 'User' AND `act` = 'index' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` LIMIT 1   [ RunTime:0.0001s ]
+SQL: SELECT * FROM `ysk_user` ORDER BY userid desc LIMIT 0,50   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+NOTIC: [8] Undefined variable: _user_auth /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/60dda32da550c2bcadbf7e515086a5c1.php 第 75 行.
+NOTIC: [8] Undefined index: keyword /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Admin/60dda32da550c2bcadbf7e515086a5c1.php 第 157 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 35 LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 32 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 34 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 19 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 33 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 32 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 32 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 19 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 31 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 19 LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 30 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 19 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 29 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 10 LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 28 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 10 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 27 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 10 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 26 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 25 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 24 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 19 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 23 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 22 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 21 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 20 LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 17 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 19 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 18 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 9 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 17 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 10 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 16 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 15 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 11 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 14 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 9 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 13 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 9 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 12 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 9 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 11 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 9 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 10 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 9 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 9 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `ysk_user` WHERE `pid` = 1 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `ysk_user` WHERE `userid` = 0 LIMIT 1   [ RunTime:0.0001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034782s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000283s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+

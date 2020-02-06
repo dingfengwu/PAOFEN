@@ -1,0 +1,2509 @@
+[ 2019-07-29T01:06:16+08:00 ] 163.177.90.152 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T01:06:16+08:00 ] 163.177.90.152 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003996s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004025s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2019-07-29T05:20:04+08:00 ] 139.224.116.230 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001066s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.003113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004375s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T05:20:04+08:00 ] 139.224.116.230 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000344s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001149s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016787s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016819s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000822s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000850s ]
+
+[ 2019-07-29T05:37:32+08:00 ] 106.14.189.11 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T05:37:33+08:00 ] 106.14.189.11 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001243s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003892s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003919s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000356s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000384s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014838s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015765s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0041s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0038s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001831s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0009s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000319s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000382s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000388s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000083s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004149s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000729s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001114s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003552s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000348s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001282s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004137s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000227s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000400s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000431s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0061s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004134s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004163s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000363s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2019-07-29T10:10:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016582s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017470s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004132s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000443s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000482s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019412s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020309s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.016313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016707s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000404s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0009s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001657s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.006797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007178s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003660s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013109s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013139s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000161s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000381s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000410s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.006941s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007361s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003744s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003771s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001176s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011377s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.011925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012306s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010487s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010517s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000404s ]
+
+[ 2019-07-29T10:34:06+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.011855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012234s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000407s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2019-07-29T11:13:32+08:00 ] 61.158.146.129 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000850s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T11:13:32+08:00 ] 61.158.146.129 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000839s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001252s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004321s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000347s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000375s ]
+
+[ 2019-07-29T11:13:33+08:00 ] 61.158.146.129 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2019-07-29T11:13:33+08:00 ] 61.158.146.129 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.016703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017103s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001211s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001444s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004412s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004455s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000407s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004234s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000184s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000349s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000380s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001206s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000057s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003840s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000386s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000833s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001245s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003847s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000353s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007416s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000875s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008361s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004526s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000173s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000413s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000445s ]
+
+[ 2019-07-29T12:00:29+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001580s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002486s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004863s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000735s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001040s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001413s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001123s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001172s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004217s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004246s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000365s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003759s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003793s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000223s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000436s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000075s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003749s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003776s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2019-07-29T12:52:03+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000360s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001218s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2019-07-29T12:52:05+08:00 ] 171.9.133.163 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001180s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T12:52:05+08:00 ] 171.9.133.163 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001166s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T12:52:05+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000150s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2019-07-29T12:52:05+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001119s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004178s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2019-07-29T13:45:19+08:00 ] 218.241.116.90 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0015s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T13:45:19+08:00 ] 218.241.116.90 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000758s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004103s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004136s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000357s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000389s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.009103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009503s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0024s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001237s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000816s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001217s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000318s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001156s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004162s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004228s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000354s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000954s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001428s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0009s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000117s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005605s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000194s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000221s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000450s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+
+[ 2019-07-29T14:29:50+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000832s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0058s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003932s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000175s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2019-07-29T14:29:52+08:00 ] 171.9.133.163 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001130s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0009s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0008s ]
+
+[ 2019-07-29T14:29:52+08:00 ] 171.9.133.163 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000740s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0008s ]
+
+[ 2019-07-29T14:29:52+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000124s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004177s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000179s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2019-07-29T14:29:52+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000817s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001551s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0013s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0022s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001412s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001561s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0037s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0011s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0013s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000526s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000783s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001382s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0011s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000345s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001147s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003683s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003710s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000367s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003709s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000825s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004952s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004987s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000404s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007098s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000538s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000570s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000370s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000087s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003979s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004017s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000157s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000359s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-29T15:53:31+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010892s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001042s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012011s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004923s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000399s ]
+
+[ 2019-07-29T16:34:47+08:00 ] 61.158.146.129 /Index/qdgame.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T16:34:47+08:00 ] 61.158.146.129 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000325s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001227s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000058s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000091s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003615s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003642s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000377s ]
+
+[ 2019-07-29T16:34:47+08:00 ] 61.158.146.129 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+
+[ 2019-07-29T16:34:48+08:00 ] 61.158.146.129 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0021s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000831s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001178s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001491s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001165s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003701s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003728s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000874s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001378s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003885s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003920s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000406s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000435s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.007989s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008381s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003845s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000343s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0061s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000080s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003782s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000390s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001302s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000360s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000387s ]
+
+[ 2019-07-29T17:03:37+08:00 ] 171.9.133.163 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.016428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016818s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003926s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000182s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001416s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.024762s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025154s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000855s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001285s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0026s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000963s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001438s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0019s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0009s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001182s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003692s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003720s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000350s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000385s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001142s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008563s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008592s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011401s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012243s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000403s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000037s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011514s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011544s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000219s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006980s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000813s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007857s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0058s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006876s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000369s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-07-29T18:53:28+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.019602s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.020469s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004270s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004297s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000155s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000419s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0016s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001223s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001535s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0015s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001266s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003772s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003813s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000345s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000373s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001203s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003651s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003679s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.024411s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000869s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.025351s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000097s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003777s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000181s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000212s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0014s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004027s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004062s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000180s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000398s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.021894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.022299s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003727s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000396s ]
+
+[ 2019-07-29T20:54:36+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000324s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.039938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.040333s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0073s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000079s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003805s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000188s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000391s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001108s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001654s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0008s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0009s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0008s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000489s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001752s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0033s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /User/wxerweima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001713s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Recharge/wxcz.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000490s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001702s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0032s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Recharge/chongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001699s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0005s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001198s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000086s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001181s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000082s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003905s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000364s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000392s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001194s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003844s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000198s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000236s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000422s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000454s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001228s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000081s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000158s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000368s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000397s ]
+
+[ 2019-07-29T21:22:27+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000911s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001353s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004859s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000429s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000463s ]
+
+[ 2019-07-29T21:22:28+08:00 ] 123.53.189.100 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.001022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001532s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0007s ]
+
+[ 2019-07-29T21:22:28+08:00 ] 123.53.189.100 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0006s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003843s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003872s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000338s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+
+[ 2019-07-29T23:04:24+08:00 ] 61.158.146.129 /User/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001127s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0007s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `ysk_user` [ RunTime:0.0005s ]
+
+[ 2019-07-29T23:04:24+08:00 ] 61.158.146.129 /Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: Run Common\Behavior\CheckLangBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+SQL: SHOW COLUMNS FROM `ysk_config` [ RunTime:0.0010s ]
+SQL: SELECT `value`,`tip` FROM `ysk_config` WHERE `name` = 'TOGGLE_WEB_SITE' LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined variable: account /www/wwwroot/ltyxdc.cn/APP/Runtime/Cache/Home/6dbce1cb7c0dde839718c0b7332903b5.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003723s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.003764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000372s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000402s ]
+
+[ 2019-07-29T23:04:25+08:00 ] 61.158.146.129 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2019-07-29T23:04:25+08:00 ] 61.158.146.129 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+
